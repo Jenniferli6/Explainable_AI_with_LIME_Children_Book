@@ -24,6 +24,8 @@ This gap inspired me to explore how we can make complex AI concepts **clear, und
 
 Together, they explore how smart machines make decisions with LIME technique.
 
+![Explainable AI with LIME Book Cover](ChildBook%20Cover.png)
+
 
 ## ✍️ Credits
 
